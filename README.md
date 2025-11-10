@@ -58,6 +58,12 @@ body kısmı
 
 daha sonra
 
+<img width="1286" height="834" alt="{F27B5C0A-19D8-4A8C-8F86-8B21D7F9A6D1}" src="https://github.com/user-attachments/assets/e5530e8e-75f4-46d7-b78a-35453ea6dead" />
+
+<img width="1885" height="843" alt="{AD31871D-9974-4818-B254-40A517B6DC22}" src="https://github.com/user-attachments/assets/97637e26-6d7b-46ce-9131-da1ebe3d73c4" />
+<img width="1902" height="965" alt="{3A1434EB-F87E-4F74-BC23-0010EEC865DF}" src="https://github.com/user-attachments/assets/dc156912-e64e-46df-97c2-a8a743d18d56" />
+
+<img width="1792" height="851" alt="{699B9684-08E4-4EF3-AB62-9D9AE99B6819}" src="https://github.com/user-attachments/assets/e4330f62-ab98-43cc-875a-8a5f99c2e9df" />
 
 1. Depoyu klonlayın:
 ```bash
@@ -74,12 +80,7 @@ npm install
 npm run dev
 
 
-<img width="1286" height="834" alt="{F27B5C0A-19D8-4A8C-8F86-8B21D7F9A6D1}" src="https://github.com/user-attachments/assets/e5530e8e-75f4-46d7-b78a-35453ea6dead" />
 
-<img width="1885" height="843" alt="{AD31871D-9974-4818-B254-40A517B6DC22}" src="https://github.com/user-attachments/assets/97637e26-6d7b-46ce-9131-da1ebe3d73c4" />
-<img width="1902" height="965" alt="{3A1434EB-F87E-4F74-BC23-0010EEC865DF}" src="https://github.com/user-attachments/assets/dc156912-e64e-46df-97c2-a8a743d18d56" />
-
-<img width="1792" height="851" alt="{699B9684-08E4-4EF3-AB62-9D9AE99B6819}" src="https://github.com/user-attachments/assets/e4330f62-ab98-43cc-875a-8a5f99c2e9df" />
 
 
 
